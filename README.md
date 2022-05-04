@@ -6,5 +6,8 @@ Alfred4 Workflow to shorten URL of amazon products
 2. Launch alfred and type keyword `amazon`.
 3. Shortened URL is copied to your Clipboard.
 
+## Update (2021/05/04)
+Since macOS stopped to provide python environment, I changed the script to ruby from python.
+
 # License of Icon
 The icon of this workflow is designed by "[いらすとや](https://www.irasutoya.com)"
